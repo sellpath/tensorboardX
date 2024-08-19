@@ -30,7 +30,7 @@ with open('HISTORY.rst') as history_file:
 requirements = [
     'numpy',
     'packaging',
-    'protobuf>=3.20',
+    'protobuf',
 ]
 
 
